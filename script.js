@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const pageDataEN = {
         about: {
             title: "About the Tournament",
-            image: "StarForce3Art.webp",
+            image: "MMSF3TournamentArt.webp",
             content: `
                 <p>Welcome to the official web portal for the Mega Man Star Force 3 Grand Tournament! The world's best Wave-Changers will compete to prove their skill, strategy, and BrotherBand bonds.</p>
                 <p>This event celebrates the fast-paced, card-based combat of MMSF3, from masterful folder construction to the tactical mastery of the Noise Change system. Will a Black Ace specialist or a Red Joker powerhouse take the title of Satellite Administrator?</p>
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         schedule: {
             title: "Event Schedule",
-            image: "https://static.wikia.nocookie.net/megaman/images/c/c8/MMSR3_Battle_Screen.png",
+            image: "https://pm1.aminoapps.com/8389/351a4299a369e89a7ba8f64418c9e578af6bab05r1-755-1068v2_hq.jpg",
             content: `
                 <ul>
                     <li><b>Day 1: WAZA Qualifiers & Folder Checks</b> - The tournament begins with the final online qualifying rounds.</li>
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         brackets: {
             title: "Live Brackets",
-            image: "https://www.printyourbrackets.com/images/16-team-seeded-tournament-bracket.png",
+            image: "https://pm1.aminoapps.com/7274/3c65554aeaaba5a9c50af05f4235b06b22a282d5r1-1448-2048v2_00.jpg",
             content: `
                 <p>Follow every Wave Battle video! The tournament brackets are updated in real-time as matches conclude. See who is advancing and what incredible matchups are coming up next.</p>
                 <p>All matches from the Quarterfinal stage onward will be recorded from the community. Don't miss a second of the action!</p>
@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         ranking: {
             title: "Group Stage Standings",
-            image: "https://static.wikia.nocookie.net/megaman/images/9/9c/MMSF3_Card_Selection.PNG",
+            image: "MMSF3GuidebookBlackbox.webp",
             content: `
                 <p>In the Group Stage, players battle everyone in their group. Standings are determined by match wins. The top two from each group advance to the Knockout Stage.</p>
                 <table class="league-table">
@@ -286,7 +286,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         format: {
             title: "Knockout Round Results",
-            image: "https://megaman.fandom.com/wiki/Mega_Man_Star_Force_3?file=MMSF3_Mega_Man_Black_Ace.png",
+            image: "https://pm1.aminoapps.com/8389/351a4299a369e89a7ba8f64418c9e578af6bab05r1-755-1068v2_hq.jpg",
             content: `
                 <p>The main event is a single-elimination knockout bracket. The bracket below shows the final results from the Quarterfinals to the Grand Final.</p>
                 <div class="bracket-container">
@@ -362,7 +362,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         rules: {
             title: "Official Tournament Rules",
-            image: "https://static.wikia.nocookie.net/megaman/images/1/18/Acid_Ace.png",
+            image: "https://upload.wikimedia.org/wikipedia/fr/6/67/Mega_Man_Star_Force_3_Logo.png",
             content: `
                 <p>To ensure competitive integrity, all participants must adhere to the official rules established by Cipher.</p>
                 <ul>
@@ -381,7 +381,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const pageDataJP = {
         about: {
             title: "トーナメント概要",
-            image: "StarForce3Art.webp",
+            image: "MMSF3TournamentArt.webp",
             content: `
                 <p>『流星のロックマン3』グランドトーナメントの公式ウェブポータルへようこそ！世界最高のウェーブ変換士たちが、そのスキル、戦略、そしてブラザーバンドの絆を証明するために競い合います。</p>
                 <p>このイベントは、巧みなフォルダ構築からノイズチェンジシステムの戦術的習熟まで、『MMSF3』の高速カードバトルを称えるものです。ブラックエースのスペシャリストか、レッドジョーカーの強者がサテライトアドミニストレーターの称号を手にするのか？</p>
@@ -391,7 +391,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         schedule: {
             title: "イベントスケジュール",
-            image: "https://static.wikia.nocookie.net/megaman/images/c/c8/MMSR3_Battle_Screen.png",
+            image: "https://pm1.aminoapps.com/8389/351a4299a369e89a7ba8f64418c9e578af6bab05r1-755-1068v2_hq.jpg",
             content: `
                 <ul>
                     <li><b>1日目：WAZA予選＆フォルダチェック</b> - トーナメントは最終オンライン予選ラウンドで始まります。</li>
@@ -403,7 +403,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         brackets: {
             title: "ライブ対戦表",
-            image: "https://www.printyourbrackets.com/images/16-team-seeded-tournament-bracket.png",
+            image: "https://pm1.aminoapps.com/7274/3c65554aeaaba5a9c50af05f4235b06b22a282d5r1-1448-2048v2_00.jpg",
             content: `
                 <p>すべてのウェーブバトルビデオをフォローしてください！トーナメントの対戦表は試合が終わり次第、リアルタイムで更新されます。誰が勝ち進んでいるか、そして次にどんな素晴らしい対戦が待っているかを確認してください。</p>
                 <p>準々決勝以降のすべての試合は、コミュニティによって録画されます。一瞬たりともお見逃しなく！</p>
@@ -411,7 +411,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         ranking: {
             title: "グループステージ順位表",
-            image: "https://static.wikia.nocookie.net/megaman/images/9/9c/MMSF3_Card_Selection.PNG",
+            image: "MMSF3GuidebookBlackbox.webp",
             content: `
                 <p>グループステージでは、プレイヤーはグループ内の全員と対戦します。順位は試合の勝利数によって決定されます。各グループの上位2名がノックアウトステージに進出します。</p>
                 <table class="league-table">
@@ -662,7 +662,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         format: {
             title: "ノックアウトステージ 結果",
-            image: "https://megaman.fandom.com/wiki/Mega_Man_Star_Force_3?file=MMSF3_Mega_Man_Black_Ace.png",
+            image: "https://pm1.aminoapps.com/8389/351a4299a369e89a7ba8f64418c9e578af6bab05r1-755-1068v2_hq.jpg",
             content: `
                 <p>メインイベントは、シングルエリミネーションのノックアウト方式トーナメントです。以下の対戦表は、準々決勝からグランドファイナルまでの最終的な結果を示しています。</p>
                 <div class="bracket-container">
@@ -738,7 +738,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         rules: {
             title: "公式トーナメントルール",
-            image: "https://static.wikia.nocookie.net/megaman/images/1/18/Acid_Ace.png",
+            image: "https://static.mercdn.net/item/detail/orig/photos/m69558035108_1.jpg",
             content: `
                 <p>競技の公正性を確保するため、すべての参加者はサイファーが定める公式ルールを遵守しなければなりません。</p>
                 <ul>
@@ -939,4 +939,5 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         }
     }
+
 });
