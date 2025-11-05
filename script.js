@@ -295,29 +295,29 @@ document.addEventListener('DOMContentLoaded', () => {
                             <h3 class="round-title">Quarterfinals</h3>
                             <div class="match">
                                 <ul class="match-content">
-                                    <li class="player winner">Geo S. (A1)<span class="score">WIN</span></li>
-                                    <li class="player">Luna P. (B2)<span class="score">DEL</span></li>
+                                    <li class="player winner">Geo S. (A1)<span class="score">WIN</span>2</li>
+                                    <li class="player">Luna P. (B2)<span class="score">DEL</span>1</li>
                                 </ul>
                                 <div class="match-connector"></div>
                             </div>
                             <div class="match">
                                 <ul class="match-content">
-                                    <li class="player">Jack C. (C1)<span class="score">DEL</span></li>
-                                    <li class="player winner">Arthur E. (D2)<span class="score">WIN</span></li>
+                                    <li class="player">Jack C. (C1)<span class="score">DEL</span>1</li>
+                                    <li class="player winner">Arthur E. (D2)<span class="score">WIN</span>2</li>
                                 </ul>
                                 <div class="match-connector"></div>
                             </div>
                             <div class="match">
                                 <ul class="match-content">
-                                    <li class="player winner">Sonia S. (B1)<span class="score">WIN</span></li>
-                                    <li class="player">Bud B. (A2)<span class="score">DEL</span></li>
+                                    <li class="player winner">Sonia S. (B1)<span class="score">WIN</span>2</li>
+                                    <li class="player">Bud B. (A2)<span class="score">DEL</span>1</li>
                                 </ul>
                                 <div class="match-connector"></div>
                             </div>
                             <div class="match">
                                 <ul class="match-content">
-                                    <li class="player winner">Solo (D1)<span class="score">WIN</span></li>
-                                    <li class="player">Queen T. (C2)<span class="score">DEL</span></li>
+                                    <li class="player winner">Solo (D1)<span class="score">WIN</span>2</li>
+                                    <li class="player">Queen T. (C2)<span class="score">DEL</span>1</li>
                                 </ul>
                                 <div class="match-connector"></div>
                             </div>
@@ -326,15 +326,15 @@ document.addEventListener('DOMContentLoaded', () => {
                             <h3 class="round-title">Semifinals</h3>
                             <div class="match">
                                 <ul class="match-content">
-                                    <li class="player winner">Geo S.<span class="score">WIN</span></li>
-                                    <li class="player">Arthur E.<span class="score">DEL</span></li>
+                                    <li class="player winner">Geo S.<span class="score">WIN</span>2</li>
+                                    <li class="player">Arthur E.<span class="score">DEL</span>0</li>
                                 </ul>
                                 <div class="match-connector"></div>
                             </div>
                             <div class="match">
                                 <ul class="match-content">
-                                    <li class="player">Sonia S.<span class="score">DEL</span></li>
-                                    <li class="player winner">Solo<span class="score">WIN</span></li>
+                                    <li class="player">Sonia S.<span class="score">DEL</span>0</li>
+                                    <li class="player winner">Solo<span class="score">WIN</span>2</li>
                                 </ul>
                                 <div class="match-connector"></div>
                             </div>
@@ -343,8 +343,8 @@ document.addEventListener('DOMContentLoaded', () => {
                             <h3 class="round-title">Grand Final</h3>
                             <div class="match">
                                 <ul class="match-content">
-                                    <li class="player winner">Geo S.<span class="score">WIN</span></li>
-                                    <li class="player">Solo<span class="score">DEL</span></li>
+                                    <li class="player winner">Geo S.<span class="score">WIN</span>2</li>
+                                    <li class="player">Solo<span class="score">DEL</span>1</li>
                                 </ul>
                             </div>
                         </div>
@@ -675,29 +675,29 @@ document.addEventListener('DOMContentLoaded', () => {
                             <h3 class="round-title">準々決勝</h3>
                             <div class="match">
                                 <ul class="match-content">
-                                    <li class="player winner">Geo S. (A1)<span class="score">WIN</span></li>
-                                    <li class="player">Luna P. (B2)<span class="score">DEL</span></li>
+                                    <li class="player winner">Geo S. (A1)<span class="score">WIN</span>2</li>
+                                    <li class="player">Luna P. (B2)<span class="score">DEL</span>1</li>
                                 </ul>
                                 <div class="match-connector"></div>
                             </div>
                             <div class="match">
                                 <ul class="match-content">
-                                    <li class="player">Jack C. (C1)<span class="score">DEL</span></li>
-                                    <li class="player winner">Arthur E. (D2)<span class="score">WIN</span></li>
+                                    <li class="player">Jack C. (C1)<span class="score">DEL</span>1</li>
+                                    <li class="player winner">Arthur E. (D2)<span class="score">WIN</span>2</li>
                                 </ul>
                                 <div class="match-connector"></div>
                             </div>
                             <div class="match">
                                 <ul class="match-content">
-                                    <li class="player winner">Sonia S. (B1)<span class="score">WIN</span></li>
-                                    <li class="player">Bud B. (A2)<span class="score">DEL</span></li>
+                                    <li class="player winner">Sonia S. (B1)<span class="score">WIN</span>2</li>
+                                    <li class="player">Bud B. (A2)<span class="score">DEL</span>1</li>
                                 </ul>
                                 <div class="match-connector"></div>
                             </div>
                             <div class="match">
                                 <ul class="match-content">
-                                    <li class="player winner">Solo (D1)<span class="score">WIN</span></li>
-                                    <li class="player">Queen T. (C2)<span class="score">DEL</span></li>
+                                    <li class="player winner">Solo (D1)<span class="score">WIN</span>2</li>
+                                    <li class="player">Queen T. (C2)<span class="score">DEL</span>1</li>
                                 </ul>
                                 <div class="match-connector"></div>
                             </div>
@@ -706,15 +706,15 @@ document.addEventListener('DOMContentLoaded', () => {
                             <h3 class="round-title">準決勝</h3>
                             <div class="match">
                                 <ul class="match-content">
-                                    <li class="player winner">Geo S.<span class="score">WIN</span></li>
-                                    <li class="player">Arthur E.<span class="score">DEL</span></li>
+                                    <li class="player winner">Geo S.<span class="score">WIN</span>2</li>
+                                    <li class="player">Arthur E.<span class="score">DEL</span>0</li>
                                 </ul>
                                 <div class="match-connector"></div>
                             </div>
                             <div class="match">
                                 <ul class="match-content">
-                                    <li class="player">Sonia S.<span class="score">DEL</span></li>
-                                    <li class="player winner">Solo<span class="score">WIN</span></li>
+                                    <li class="player">Sonia S.<span class="score">DEL</span>0</li>
+                                    <li class="player winner">Solo<span class="score">WIN</span>2</li>
                                 </ul>
                                 <div class="match-connector"></div>
                             </div>
@@ -723,8 +723,8 @@ document.addEventListener('DOMContentLoaded', () => {
                             <h3 class="round-title">決勝戦</h3>
                             <div class="match">
                                 <ul class="match-content">
-                                    <li class="player winner">Geo S.<span class="score">WIN</span></li>
-                                    <li class="player">Solo<span class="score">DEL</span></li>
+                                    <li class="player winner">Geo S.<span class="score">WIN</span>2</li>
+                                    <li class="player">Solo<span class="score">DEL</span>1</li>
                                 </ul>
                             </div>
                         </div>
@@ -949,4 +949,5 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 });
+
 
