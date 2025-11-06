@@ -1,4 +1,4 @@
-﻿
+
 document.addEventListener('DOMContentLoaded', () => {
 
     // --- DATA STORE (ENGLISH) ---
@@ -19,9 +19,9 @@ document.addEventListener('DOMContentLoaded', () => {
             content: `
                 <ul>
                     <li><b>Week 1: Registration</b> - Player registration and folder submission begins.</li>
-                <li><b>Week 2: Group Stages</b> - The top players are seeded into groups to battle in a round-robin format. Mastering Noise Change and counter-play will be key to advancing.</li>
-                <li><b>Week 3: Top 16 Knockout Stage</b> - The single-elimination bracket begins. Expect shocking Finalized forms and devastating Giga Card plays as the field narrows.</li>
-                <li><b>Week 4: Semifinals & Grand Finals</b> - The final four players clash for a spot in the Grand Finals. The last two titans will then battle for the title of Satellite Administrator.</li>
+                    <li><b>Week 2: Group Stages</b> - The top players are seeded into groups to battle in a round-robin format. Mastering Noise Change and counter-play will be key to advancing.</li>
+                    <li><b>Week 3: Top 16 Knockout Stage</b> - The single-elimination bracket begins. Expect shocking Finalized forms and devastating Giga Card plays as the field narrows.</li>
+                    <li><b>Week 4: Semifinals & Grand Finals</b> - The final four players clash for a spot in the Grand Finals. The last two titans will then battle for the title of Satellite Administrator.</li>
                 </ul>
             `
         },
@@ -764,7 +764,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- UI TEXT ---
     const uiText = {
         en: {
-            mainTitle: "MMSF3 Grand Tournament",
+            pageTitle: "MMSF3 Grand Tournament 2025",
+            mainTitle: "MMSF3 Grand Tournament 2025",
             navAbout: "About",
             navSchedule: "Schedule",
             navBrackets: "Brackets",
@@ -774,7 +775,8 @@ document.addEventListener('DOMContentLoaded', () => {
             footerText: "This website is for demonstration purposes only. Mega Man Star Force is a property of Capcom."
         },
         jp: {
-            mainTitle: "流星のロックマン3 グランドトーナメント",
+            pageTitle: "流星のロックマン3 グランドトーナメント 2025",
+            mainTitle: "流星のロックマン3 グランドトーナメント 2025",
             navAbout: "概要",
             navSchedule: "スケジュール",
             navBrackets: "対戦表",
@@ -806,6 +808,7 @@ document.addEventListener('DOMContentLoaded', () => {
      */
     function updateUIText() {
         const texts = uiText[currentLang];
+        document.title = texts.pageTitle;
         document.getElementById('main-title').textContent = texts.mainTitle;
         document.getElementById('nav-about').textContent = texts.navAbout;
         document.getElementById('nav-schedule').textContent = texts.navSchedule;
@@ -949,6 +952,3 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 });
-
-
-
