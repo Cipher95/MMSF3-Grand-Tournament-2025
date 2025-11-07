@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <td>Cipher</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <td>libero</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <td>Thiago</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <td>ᴰᵃʳᵏSaidh</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <li>Cipher 0 - 0 ᴰᵃʳᵏSaidh</li>
                     <li>libero 0 - 0 Thiago</li>
                 </ul>
-                /*<table class="league-table">
+                <table class="league-table">
                     <caption>Group Bravo Standings</caption>
                     <thead>
                         <tr>
@@ -121,40 +121,40 @@ document.addEventListener('DOMContentLoaded', () => {
                     <tbody>
                         <tr>
                             <td>1</td>
-                            <td>Cipher</td>
+                            <td>-</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
                         </tr>
                         <tr>
                             <td>2</td>
-                            <td>libero</td>
+                            <td>-</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
                         </tr>
                         <tr>
                             <td>3</td>
-                            <td>Thiago</td>
+                            <td>-</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
                         </tr>
                         <tr>
                             <td>4</td>
-                            <td>ᴰᵃʳᵏSaidh</td>
+                            <td>-</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
@@ -163,135 +163,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 </table>
                 <h3>Group Bravo Match Results</h3>
                 <ul class="match-results">
-                    <li>Cipher 0 - 0 libero</li>
-                    <li>Thiago 0 - 0 ᴰᵃʳᵏSaidh</li>
-                    <li>Cipher 0 - 0 Thiago</li>
-                    <li>libero 0 - 0 ᴰᵃʳᵏSaidh</li>
-                    <li>Cipher 0 - 0 ᴰᵃʳᵏSaidh</li>
-                    <li>libero 0 - 0 Thiago</li>
+                    <li>- 0 - 0 -</li>
+                    <li>- 0 - 0 -</li>
+                    <li>- 0 - 0 -</li>
+                    <li>- 0 - 0 -</li>
+                    <li>- 0 - 0 -</li>
+                    <li>- 0 - 0 -</li>
                 </ul>
-                <table class="league-table">
-                    <caption>Group Cipher Standings</caption>
-                    <thead>
-                        <tr>
-                            <th>Rank</th>
-                            <th>Player</th>
-                            <th>MP</th>
-                            <th>W</th>
-                            <th>L</th>
-                            <th>+/-</th>
-                            <th>Pts</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>1</td>
-                            <td>Geo S.</td>
-                            <td>3</td>
-                            <td>3</td>
-                            <td>0</td>
-                            <td>6</td>
-                            <td>3</td>
-                        </tr>
-                        <tr>
-                            <td>2</td>
-                            <td>Sonia S.</td>
-                            <td>3</td>
-                            <td>2</td>
-                            <td>1</td>
-                            <td>4</td>
-                            <td>2</td>
-                        </tr>
-                        <tr>
-                            <td>3</td>
-                            <td>Bud B.</td>
-                            <td>3</td>
-                            <td>1</td>
-                            <td>2</td>
-                            <td>2</td>
-                            <td>1</td>
-                        </tr>
-                        <tr>
-                            <td>4</td>
-                            <td>Solo</td>
-                            <td>3</td>
-                            <td>0</td>
-                            <td>3</td>
-                            <td>1</td>
-                            <td>0</td>
-                        </tr>
-                    </tbody>
-                </table>
-                <h3>Group Cipher Match Results</h3>
-                <ul class="match-results">
-                    <li>Geo S. <strong>WIN</strong> 2 vs. Sonia S. 0</li>
-                    <li>Bud B. <strong>WIN</strong> 2 vs. Solo 0</li>
-                    <li>Geo S. <strong>WIN</strong> 2 vs. Bud B. 1</li>
-                    <li>Sonia S. <strong>WIN</strong> 2 vs. Solo 0</li>
-                    <li>Geo S. <strong>WIN</strong> 2 vs. Solo 0</li>
-                    <li>Sonia S. <strong>WIN</strong> 2 vs. Bud B. 0</li>
-                </ul>
-                <table class="league-table">
-                    <caption>Group Delta Standings</caption>
-                    <thead>
-                        <tr>
-                            <th>Rank</th>
-                            <th>Player</th>
-                            <th>MP</th>
-                            <th>W</th>
-                            <th>L</th>
-                            <th>+/-</th>
-                            <th>Pts</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>1</td>
-                            <td>Geo S.</td>
-                            <td>3</td>
-                            <td>3</td>
-                            <td>0</td>
-                            <td>6</td>
-                            <td>3</td>
-                        </tr>
-                        <tr>
-                            <td>2</td>
-                            <td>Sonia S.</td>
-                            <td>3</td>
-                            <td>2</td>
-                            <td>1</td>
-                            <td>4</td>
-                            <td>2</td>
-                        </tr>
-                        <tr>
-                            <td>3</td>
-                            <td>Bud B.</td>
-                            <td>3</td>
-                            <td>1</td>
-                            <td>2</td>
-                            <td>2</td>
-                            <td>1</td>
-                        </tr>
-                        <tr>
-                            <td>4</td>
-                            <td>Solo</td>
-                            <td>3</td>
-                            <td>0</td>
-                            <td>3</td>
-                            <td>1</td>
-                            <td>0</td>
-                        </tr>
-                    </tbody>
-                </table>
-                <h3>Group Delta Match Results</h3>
-                <ul class="match-results">
-                    <li>Geo S. <strong>WIN</strong> 2 vs. Sonia S. 0</li>
-                    <li>Bud B. <strong>WIN</strong> 2 vs. Solo 0</li>
-                    <li>Geo S. <strong>WIN</strong> 2 vs. Bud B. 1</li>
-                    <li>Sonia S. <strong>WIN</strong> 2 vs. Solo 0</li>
-                    <li>Geo S. <strong>WIN</strong> 2 vs. Solo 0</li>
-                    <li>Sonia S. <strong>WIN</strong> 2 vs. Bud B. 0</li>
-                </ul>*/
+                
             `
         },
         format: {
@@ -305,8 +184,6 @@ document.addEventListener('DOMContentLoaded', () => {
                             <h3 class="round-title">Quarterfinals</h3>
                             <div class="match">
                                 <ul class="match-content">
-                                    /*<li class="player winner">Geo S. (A1)<span class="score">WIN</span>2</li>
-                                    <li class="player">Luna P. (B2)<span class="score">DEL</span>1</li>*/
                                     <li class="player winner">- (A1)<span class="score"></span>-</li>
                                     <li class="player winner">- (B2)<span class="score"></span>-</li>
                                 </ul>
@@ -450,7 +327,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <td>Cipher</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
@@ -460,7 +337,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <td>libero</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
@@ -470,7 +347,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <td>Thiago</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
@@ -480,7 +357,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <td>ᴰᵃʳᵏSaidh</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
@@ -496,7 +373,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <li>Cipher 0 - 0 ᴰᵃʳᵏSaidh</li>
                     <li>libero 0 - 0 Thiago</li>
                 </ul>
-                /*<table class="league-table">
+                <table class="league-table">
                     <caption>グループ・ブラボー 順位表</caption>
                     <thead>
                         <tr>
@@ -513,40 +390,40 @@ document.addEventListener('DOMContentLoaded', () => {
                     <tbody>
                         <tr>
                             <td>1</td>
-                            <td>Cipher</td>
+                            <td>-</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
                         </tr>
                         <tr>
                             <td>2</td>
-                            <td>libero</td>
+                            <td>-</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
                         </tr>
                         <tr>
                             <td>3</td>
-                            <td>Thiago</td>
+                            <td>-</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
                         </tr>
                         <tr>
                             <td>4</td>
-                            <td>ᴰᵃʳᵏSaidh</td>
+                            <td>-</td>
                             <td>0</td>
                             <td>0</td>
-                            <th>0</th>
+                            <td>0</td>
                             <td>0</td>
                             <td>0</td>
                             <td>0</td>
@@ -555,135 +432,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 </table>
                 <h3>グループ・ブラボー 試合結果</h3>
                 <ul class="match-results">
-                    <li>Cipher 0 - 0 libero</li>
-                    <li>Thiago 0 - 0 ᴰᵃʳᵏSaidh</li>
-                    <li>Cipher 0 - 0 Thiago</li>
-                    <li>libero 0 - 0 ᴰᵃʳᵏSaidh</li>
-                    <li>Cipher 0 - 0 ᴰᵃʳᵏSaidh</li>
-                    <li>libero 0 - 0 Thiago</li>
+                    <li>- 0 - 0 -</li>
+                    <li>- 0 - 0 -</li>
+                    <li>- 0 - 0 -</li>
+                    <li>- 0 - 0 -</li>
+                    <li>- 0 - 0 -</li>
+                    <li>- 0 - 0 -</li>
                 </ul>
-                <table class="league-table">
-                    <caption>グループ・サイファー 順位表</caption>
-                    <thead>
-                        <tr>
-                            <th>順位</th>
-                            <th>プレイヤー</th>
-                            <th>試合</th>
-                            <th>勝</th>
-                            <th>敗</th>
-                            <th>+/-</th>
-                            <th>Pt</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>1</td>
-                            <td>Geo S.</td>
-                            <td>3</td>
-                            <td>3</td>
-                            <td>0</td>
-                            <td>6</td>
-                            <td>3</td>
-                        </tr>
-                        <tr>
-                            <td>2</td>
-                            <td>Sonia S.</td>
-                            <td>3</td>
-                            <td>2</td>
-                            <td>1</td>
-                            <td>4</td>
-                            <td>2</td>
-                        </tr>
-                        <tr>
-                            <td>3</td>
-                            <td>Bud B.</td>
-                            <td>3</td>
-                            <td>1</td>
-                            <td>2</td>
-                            <td>2</td>
-                            <td>1</td>
-                        </tr>
-                        <tr>
-                            <td>4</td>
-                            <td>Solo</td>
-                            <td>3</td>
-                            <td>0</td>
-                            <td>3</td>
-                            <td>1</td>
-                            <td>0</td>
-                        </tr>
-                    </tbody>
-                </table>
-                <h3>グループ・サイファー 試合結果</h3>
-                <ul class="match-results">
-                    <li>Geo S. <strong>WIN</strong> 2 vs. Sonia S. 0</li>
-                    <li>Bud B. <strong>WIN</strong> 2 vs. Solo 0</li>
-                    <li>Geo S. <strong>WIN</strong> 2 vs. Bud B. 1</li>
-                    <li>Sonia S. <strong>WIN</strong> 2 vs. Solo 0</li>
-                    <li>Geo S. <strong>WIN</strong> 2 vs. Solo 0</li>
-                    <li>Sonia S. <strong>WIN</strong> 2 vs. Bud B. 0</li>
-                </ul>
-                <table class="league-table">
-                    <caption>グループ・デルタ 順位表</caption>
-                    <thead>
-                        <tr>
-                            <th>順位</th>
-                            <th>プレイヤー</th>
-                            <th>試合</th>
-                            <th>勝</th>
-                            <th>敗</th>
-                            <th>+/-</th>
-                            <th>Pt</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>1</td>
-                            <td>Geo S.</td>
-                            <td>3</td>
-                            <td>3</td>
-                            <td>0</td>
-                            <td>6</td>
-                            <td>3</td>
-                        </tr>
-                        <tr>
-                            <td>2</td>
-                            <td>Sonia S.</td>
-                            <td>3</td>
-                            <td>2</td>
-                            <td>1</td>
-                            <td>4</td>
-                            <td>2</td>
-                        </tr>
-                        <tr>
-                            <td>3</td>
-                            <td>Bud B.</td>
-                            <td>3</td>
-                            <td>1</td>
-                            <td>2</td>
-                            <td>2</td>
-                            <td>1</td>
-                        </tr>
-                        <tr>
-                            <td>4</td>
-                            <td>Solo</td>
-                            <td>3</td>
-                            <td>0</td>
-                            <td>3</td>
-                            <td>1</td>
-                            <td>0</td>
-                        </tr>
-                    </tbody>
-                </table>
-                <h3>グループ・デルタ 試合結果</h3>
-                <ul class="match-results">
-                    <li>Geo S. <strong>WIN</strong> 2 vs. Sonia S. 0</li>
-                    <li>Bud B. <strong>WIN</strong> 2 vs. Solo 0</li>
-                    <li>Geo S. <strong>WIN</strong> 2 vs. Bud B. 1</li>
-                    <li>Sonia S. <strong>WIN</strong> 2 vs. Solo 0</li>
-                    <li>Geo S. <strong>WIN</strong> 2 vs. Solo 0</li>
-                    <li>Sonia S. <strong>WIN</strong> 2 vs. Bud B. 0</li>
-                </ul>*/
+                
             `
         },
         format: {
@@ -697,8 +453,6 @@ document.addEventListener('DOMContentLoaded', () => {
                             <h3 class="round-title">準々決勝</h3>
                             <div class="match">
                                 <ul class="match-content">
-                                    /*<li class="player winner">Geo S. (A1)<span class="score">WIN</span>2</li>
-                                    <li class="player">Luna P. (B2)<span class="score">DEL</span>1</li>*/
                                     <li class="player winner">- (A1)<span class="score"></span>-</li>
                                     <li class="player winner">- (B2)<span class="score"></span>-</li>
                                 </ul>
@@ -976,4 +730,5 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 });
+
 
