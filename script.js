@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 { rank: 0, name: 'Cipher', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
                 { rank: 0, name: 'libero', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
                 { rank: 0, name: 'Thiago', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
-                { rank: 0, name: 'ᴰᵃʳᵏSaidh', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 }
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 }
             ],
             matches: []
         }, {
@@ -19,7 +19,25 @@ document.addEventListener('DOMContentLoaded', () => {
                 { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0 }
             ],
             matches: []
-        }],
+        }, {
+            name: "Group Cipher Standings",
+            players: [
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 }
+            ],
+            matches: []
+        }, {
+            name: "Group Delta Standings",
+            players: [
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 }
+            ],
+            matches: []
+        } ],
         knockout: {
             rounds: [
                 {
@@ -61,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 { rank: 0, name: 'Cipher', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
                 { rank: 0, name: 'libero', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
                 { rank: 0, name: 'Thiago', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
-                { rank: 0, name: 'ᴰᵃʳᵏSaidh', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 }
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 }
             ],
             matches: []
         }, {
@@ -73,7 +91,25 @@ document.addEventListener('DOMContentLoaded', () => {
                 { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0 }
             ],
             matches: []
-        }],
+        }, {
+            name: "グループ・サイファー 順位表",
+            players: [
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 }
+            ],
+            matches: []
+        }, {
+            name: "グループ・デルタ 順位表",
+            players: [
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 },
+                { rank: 0, name: '-', mp: 0, w: 0, d: 0, l: 0, diff: 0, pts: 0, sf: 0 }
+            ],
+            matches: []
+        } ],
         knockout: {
             rounds: [
                 {
